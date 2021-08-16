@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>貓貓 on Bān-Môo&#39;s</title>
+    <link>https://Banmoo.github.io/tags/%E8%B2%93%E8%B2%93/</link>
+    <description>Recent content in 貓貓 on Bān-Môo&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 Oct 2020 23:07:47 +0800</lastBuildDate><atom:link href="https://Banmoo.github.io/tags/%E8%B2%93%E8%B2%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章</title>
+      <link>https://Banmoo.github.io/blog/test/</link>
+      <pubDate>Thu, 29 Oct 2020 23:07:47 +0800</pubDate>
+      
+      <guid>https://Banmoo.github.io/blog/test/</guid>
+      <description>內文1
+內文2
+一級標題 二級標題 六級標題 我是粗體，耶耶，我是斜體
+ 有序序列1  內縮有序序列1  再內縮     有序序列2   無序序列1 無序序列2  四個空白鍵，內縮無序序列     大於符號是引用</description>
+    </item>
+    
+  </channel>
+</rss>
